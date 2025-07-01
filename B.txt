@@ -1,1 +1,2 @@
 This is the B.txt file. which i am going to update
+New Line adding just for learning pull.
